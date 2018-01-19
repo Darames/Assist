@@ -16,7 +16,7 @@
 
 import gettext
 
-_DEFAULT_LANGUAGE_CODE = 'en-US'
+_DEFAULT_LANGUAGE_CODE = 'de-DE'
 _LOCALE_DOMAIN = 'voice-recognizer'
 
 _language_code = _DEFAULT_LANGUAGE_CODE
